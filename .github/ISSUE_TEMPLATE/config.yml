@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "💬 General support or questions"
+    url: "https://github.com/laytopgg/HeadHeld/discussions"
+    about: "Please use GitHub Discussions for questions or general support."
+issue_templates:
+  - name: "Bug report"
+    id: bug_report
+    description: "Create a report to help us improve."
+    labels: ["bug"]
+  - name: "Feature request"
+    id: feature_request
+    description: "Suggest an idea or improvement for this project."
+    labels: ["enhancement"]
